@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6556104816a9af89e64956f4"
+  },
+  "name": "numLogin",
+  "field0": "phone",
+  "field3": "text"
+},
+{
+  "_id": {
+    "$oid": "6556112116a9af89e64956f5"
+  },
+  "name": "emailLogin",
+  "field0": "email",
+  "field3": "text"
+},
+{
+  "_id": {
+    "$oid": "6556116416a9af89e64956f6"
+  },
+  "name": "comment",
+  "field3": "text"
+},
+{
+  "_id": {
+    "$oid": "655611b616a9af89e64956f7"
+  },
+  "name": "userData",
+  "field0": "email",
+  "field1": "phone"
+},
+{
+  "_id": {
+    "$oid": "6556122a16a9af89e64956f8"
+  },
+  "name": "dataAndPassword",
+  "field0": "email",
+  "field1": "phone",
+  "field2": "date",
+  "field3": "text"
+}]
